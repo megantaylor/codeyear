@@ -1,2 +1,1 @@
-codeyear
-========
+Code Year is a introductory track for anyone who wants to learn how to program. Code Year starts with the basics and teaches concepts into a practical context. The first unit will give you an introduction to JavaScript, a beginner-friendly programming language. Later Code Year units focus on teaching HTML and CSS, and how these technologies can be combined with JavaScript to build interactive websites.
